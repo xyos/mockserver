@@ -285,7 +285,7 @@ module.exports = {
 };
 ```
 
-Then import the file as above `#import './script.js'`
+Then import the file as above `#import './script.js';`
 
 Dynamic values of headers can be filled with valid JS statements such as:
 
